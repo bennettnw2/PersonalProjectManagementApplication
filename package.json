@@ -6,7 +6,12 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+<<<<<<< HEAD
     "bootstrap": "^4.4.1",
+=======
+    "express": "^4.17.1",
+    "pg": "^8.0.3",
+>>>>>>> d56b0ab4213bdc107b9ca103455351fb5c940696
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2",
